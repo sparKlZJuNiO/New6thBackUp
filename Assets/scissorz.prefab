@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 8914362926746791671}
   - component: {fileID: 6479966138208926375}
   - component: {fileID: 2680741994687060886}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: scissorz
-  m_TagString: Untagged
+  m_TagString: CleanUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

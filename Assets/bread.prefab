@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 725859398928338015}
   - component: {fileID: 1990394331179571157}
   - component: {fileID: -1727347882574545044}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: bread
-  m_TagString: Untagged
+  m_TagString: CleanUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

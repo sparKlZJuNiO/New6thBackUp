@@ -11,9 +11,9 @@ GameObject:
   - component: {fileID: 991147133219196911}
   - component: {fileID: 6901521433214598881}
   - component: {fileID: 600505954164272438}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: butter
-  m_TagString: Untagged
+  m_TagString: CleanUp
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
